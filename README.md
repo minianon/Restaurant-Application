@@ -101,3 +101,11 @@ The `MenuItem` data model represents information about menu items available in t
 1. **Install Dependencies:**
    ```bash
    npm install
+
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
